@@ -35,6 +35,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/kalaishiva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kalaishiva" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kalaismt@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalaismt@gmail.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kalaivani-s-609b2986/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalaivani-s-609b2986" height="30" width="40" /></a>
 </p>
 
