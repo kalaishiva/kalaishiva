@@ -2,10 +2,8 @@
 
 ![Header](./Kalai-github-header-image_updated.png)
 
-- 🔭 I’m currently working on Web development Projects.
-- 🌱 I’m currently learning and doing Projects.
+- 🌱 I’m currently working on Web development Projects.
 - 👯 I’m looking to collaborate on LinkedIn and GitHub.
-- 💬 Ask me about Web Developement
 - 📫 How to reach me: kalaiwebdev@gmail.com
 <!--<h2> Kalaivani's GitHub Contribution</h2><br>
 
@@ -16,7 +14,7 @@
 
 
 
-<br><br> 
+
 
 <!--
 
