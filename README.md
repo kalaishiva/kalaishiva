@@ -1,5 +1,6 @@
 ### Hi, I am Kalai  👋
 
+![Header](./Kalai-github-header-image.png)
 
 - 🔭 I’m currently working on Web development Projects.
 - 🌱 I’m currently learning and doing Projects.
